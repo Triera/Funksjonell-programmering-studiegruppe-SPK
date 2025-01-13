@@ -1,0 +1,1 @@
+# Funksjonell-programmering-studiegruppe-SPK
