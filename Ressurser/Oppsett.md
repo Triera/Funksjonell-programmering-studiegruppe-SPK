@@ -23,7 +23,7 @@ ghci> 3 + 7
 10
 ```
 
-Dette gjør det veldig enkelt å teste ut eksemplene som blir gitt i [kapittel 2](https://learnyouahaskell.com/starting-out) i "Learn You a Haskell for Great Good!".
+Dette gjør det veldig enkelt å teste ut eksemplene som blir gitt i [kapittel 2](https://learnyouahaskell.github.io/starting-out.html) i "Learn You a Haskell for Great Good!".
 
 Når du ønsker å gå ut av REPL-en kan du skrive følgende:
 
